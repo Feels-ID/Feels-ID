@@ -17,7 +17,7 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/axfcap/axfcap/main/Rotating_earth_(large).gif" />
+  <img src="https://raw.githubusercontent.com/axfcap/axfcap/main/giphy.gif" />
 
 
 
