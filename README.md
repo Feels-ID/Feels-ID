@@ -10,14 +10,14 @@
 
 - 📝 I'm currently working on [`axfc/apbotv1`](https://github.com/axcap/apbotv1)
 
-- 👥 Subscribe channel YouTube [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
+- 👥 Subscribe channel kami [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
 
-<p align="center">
-vascript" />
-tyle=flat-square&logo=Node.js" />
+
+
+
 k?style=flat-square&logo=html5&logoColor=e34f26" />
 e=flat-square&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://images.app.goo.gl/VDHWmUJ9gXi6t2VX6" />
 yle=flat-square&logo=github" /> <br>
 
 
@@ -32,5 +32,5 @@ yle=flat-square&logo=github" /> <br>
 
 
 <p align="center">
-  <a href="https://github.com/HAFizh-15"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HAFizh-15&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</a>
 </p>
