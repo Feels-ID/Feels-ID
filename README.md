@@ -15,10 +15,10 @@
 
 
 
-k?style=flat-square&logo=html5&logoColor=e34f26" />
-e=flat-square&logo=css3&logoColor=1572b6" />
+
+
   <img src="https://images.app.goo.gl/VDHWmUJ9gXi6t2VX6" />
-yle=flat-square&logo=github" /> <br>
+
 
 
 
