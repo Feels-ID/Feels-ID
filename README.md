@@ -10,7 +10,7 @@
 
 - 📝 I'm currently working on [`axfc/apbotv1`](https://github.com/axcap/apbotv1)
 
-- 👥 Looking for collaborators on [`Hafizh/TERMOS-WABOT`](https://github.com/HAFizh-15/TERMOS-WABOT)
+- 👥 Subscribe channel YouTube [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
