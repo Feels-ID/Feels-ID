@@ -17,7 +17,7 @@
 
 
 
-  <img src="https://raw.githubusercontent.com/axfcap/axfcap/main/02_Survive_further.gif" />
+  <img src="https://raw.githubusercontent.com/axfcap/axfcap/main/images%20(8).jpeg" />
 
 
 
