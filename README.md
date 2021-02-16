@@ -21,7 +21,7 @@
 ## Sosial media
 * [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
 * [`INSTAGRAM`](https://Instagram.com/axfc_ap)
-* [`FACEBOOK'](https://www.facebook.com/aggusbudy.budy)
+* [`FACEBOOK`](https://www.facebook.com/aggusbudy.budy)
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
 
