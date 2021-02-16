@@ -1,5 +1,5 @@
-### ~ I'm AGUSZ PAKEZ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src="https://raw.githubusercontent.com/axfcap/axfcap/main/20210127_212936.jpg" width=120 height="120" align="left">
+### ~ I'm AGUSZ PAKEZ <img src="https://github.com/TheDudeThatCode/Thedudethatcode/blob/master/Assets/Hi.gif" width="29px">
+<img src="https://camo.githubusercontent.com/f060591e4b460b3badade3bac92fe215b040d66c7d808756b4773cf1018ca4bc/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f4b7a745432633475386d595955694d4b644a2f67697068792e676966" width=120 height="120" align="left">
 <center>
 Connect with me :
 
