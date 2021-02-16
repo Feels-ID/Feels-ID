@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/axfcap/axfcap/main/20210127_212936.jpg" width="400px"/>
-</p>
+### ~ I'm AGUSZ PAKEZ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<img src=""https://raw.githubusercontent.com/axfcap/axfcap/main/20210127_212936.jpg" width=120 height="120" align="left">
+<center>
+Connect with me :
+
+<a href="https://www.facebook.com/aggusbudy.budy"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/nazwa.salsa_ig"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+ &nbsp;&nbsp; 
+<a href="https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
+
+
 <p align="center">
 <a href="#"><img title="AGUSZ PAKEZ" src="https://img.shields.io/badge/AGUSZ PAKEZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" width="285px"></a><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="60px">
 </p>
@@ -15,13 +22,22 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXP-TN%2FXP-TNNBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
 
 
+## Stats
 
-## Sosial media
-* [`YOUTUBE`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
-* [`INSTAGRAM`](https://Instagram.com/axfc_ap)
-* [`FACEBOOK`](https://www.facebook.com/aggusbudy.budy)
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
+<a href="https://github.com/axfcap"><img src="https://github-readme-stats.vercel.app/api?username=axfcap&show_icons=true&theme=radical"></a>
+<a href="https://github.com/axfcap"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axfcap&theme=highcontrast&layout=compact"></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=axfcap&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axfcap&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="axfcap"/> </p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=axfcap">
+</p>
+
+## Trophies
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=axfcap&row=2&column=3"/>
 
