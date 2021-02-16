@@ -1,5 +1,5 @@
 ### ~ I'm AGUSZ PAKEZ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src=""https://raw.githubusercontent.com/axfcap/axfcap/main/20210127_212936.jpg" width=120 height="120" align="left">
+<img src="https://raw.githubusercontent.com/axfcap/axfcap/main/20210127_212936.jpg" width=120 height="120" align="left">
 <center>
 Connect with me :
 
