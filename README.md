@@ -10,10 +10,10 @@ Connect with me :
 
 
 <p align="center">
-<a href="https://github.com/axfcap"><img title="Author" src="https://img.shields.io/badge/Author-MancaCansred.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Feels-ID"><img title="Author" src="https://img.shields.io/badge/Author-MancaCansred.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/axfcap"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
+<a href="https://github.com/Feels-ID/Feels-ID"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
 <a href="https://github.com/XP-TN/XP-TNNBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/XP-TN/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/XP-TN/XP-TNNBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XP-TN/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
@@ -25,17 +25,17 @@ Connect with me :
 
 ## Stats
 
-<a href="https://github.com/axfcap"><img src="https://github-readme-stats.vercel.app/api?username=axfcap&show_icons=true&theme=radical"></a>
-<a href="https://github.com/axfcap"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axfcap&theme=highcontrast&layout=compact"></a>
+<a href="https://github.com/Feels-ID"><img src="https://github-readme-stats.vercel.app/api?username=axfcap&show_icons=true&theme=radical"></a>
+<a href="https://github.com/Feels-ID"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axfcap&theme=highcontrast&layout=compact"></a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=axfcap&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axfcap&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="axfcap"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Feels-ID&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axfcap&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="axfcap"/> </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=axfcap">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feels-ID">
 </p>
 
 ## Trophies
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=axfcap&row=2&column=3"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=Feels-ID&row=2&column=3"/>
 
