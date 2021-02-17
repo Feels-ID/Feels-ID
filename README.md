@@ -25,7 +25,7 @@ Connect with me :
 
 ## Stats
 
-<a href="https://github.com/Feels-ID"><img src="https://github-readme-stats.vercel.app/api?username=axfcap&show_icons=true&theme=radical"></a>
+<a href="https://github.com/Feels-ID"><img src="https://github-readme-stats.vercel.app/api?username=Feels-ID&show_icons=true&theme=radical"></a>
 <a href="https://github.com/Feels-ID"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feels-ID&theme=highcontrast&layout=compact"></a>
 
 <!--START_SECTION:waka-->
