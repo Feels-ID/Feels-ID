@@ -8,28 +8,7 @@
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6289694354384?text=Asalamualaikum+bang)
 
 
-<p align="center">
-
-  <a href="mailto: agusbudilaksono308@gmail.com">
-
-<img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&labelColor=2d2d2d" alt="Email">
-
-
-
-  <a href="https://www.instagram.com/axfc_ap">
-
-<img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&labelColor=2d2d2d" alt="Instagram">
-
-  </a> 
-
-  <a href="https://t.me/AGUSZPAKEZ">
-
-<img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=2d2d2d" alt="Telegram">
-
-  </a>
-
-
-
+<p 
 
 
 <p align="center">
